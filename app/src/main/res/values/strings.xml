@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application2</string>
+    <string name="name_text">Enter Your Name</string>
+    <string name="btn_text">Show Name</string>
+</resources>
